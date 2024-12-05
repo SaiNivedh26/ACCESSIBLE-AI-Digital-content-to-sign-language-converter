@@ -190,3 +190,5 @@ The primary objective of this project is to bridge the communication gap for ind
 - [@Sai Nivedh V](https://github.com/SaiNivedh26)
 - [@Roshan T](https://github.com/Twinn-github09)
 - [@Baranidharan S](https://github.com/thespectacular314)
+- [@Hari Heman](https://github.com/HXMAN76)
+
